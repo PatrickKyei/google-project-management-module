@@ -1,4 +1,4 @@
-## project-management-foundations
+## Graded Quiz - Week 1
 
 ### Question 1
 
