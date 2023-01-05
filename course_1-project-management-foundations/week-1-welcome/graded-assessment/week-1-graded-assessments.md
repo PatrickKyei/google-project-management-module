@@ -148,7 +148,7 @@ Which of the following tasks or roles could one use to demonstrate project manag
 + [x] Planning a surprise party
 
 
-+[x] Organizing a big move 
++ [x] Organizing a big move 
 
 <br>
 
@@ -159,8 +159,8 @@ As someone moving to a new location, you have several tasks. You have to plan fo
 - Deep technical experience
 
 
-+[x] Strong planning and communication skills
++ [x] Strong planning and communication skills
 
-+[x] Organizational management
++ [x] Organizational management
 
-+[x] Budget preparation and monitoring
++ [x] Budget preparation and monitoring
