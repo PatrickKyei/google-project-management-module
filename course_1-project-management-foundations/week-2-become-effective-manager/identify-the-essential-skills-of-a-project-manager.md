@@ -65,7 +65,7 @@ Fill in the blank: A cross-functional project team is a team that has _____.
 - similar skill sets and works toward a common goal
 
 
-similar skill sets and works toward individual goals
+- similar skill sets and works toward individual goals
 
 
 - **skill sets and works toward a common goal**
