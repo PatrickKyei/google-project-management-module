@@ -169,7 +169,7 @@ Fill in the blank: _____ is when a project manager supports each individual on t
 
 ### Question 11
 
-- To be an effective project manager, what important actions/steps should you take?
+To be an effective project manager, what important actions/steps should you take?
 
 - Confirm team members handle the documentation and organization necessary to finish the project
 
