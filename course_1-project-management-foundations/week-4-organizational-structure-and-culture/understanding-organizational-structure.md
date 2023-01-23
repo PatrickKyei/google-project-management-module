@@ -1,4 +1,4 @@
-## Understanding organizational structure
+## Practice Quiz:  Understanding organizational structure
 
 <br>
 
@@ -70,6 +70,6 @@ What are some key functions of a Project Management Office (PMO)? Select all tha
 
 + [ ] Managing the organization's income and expenses
 
-+[x] Implementing project management best practices
++ [x] Implementing project management best practices
 
 > PMOs share lessons learned from previous successful projects and provide guidance about processes, tools, and metrics to ensure consistency.
