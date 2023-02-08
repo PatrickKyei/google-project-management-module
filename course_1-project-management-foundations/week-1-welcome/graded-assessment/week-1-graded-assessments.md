@@ -1,5 +1,7 @@
 ## Graded Quiz - Week 1
 
+<br>
+
 ### Question 1
 
 As someone seeking a project management role, you occasionally meet people in a professional setting to share knowledge and create new business connections. This is an example of what strategy to get a job? 
