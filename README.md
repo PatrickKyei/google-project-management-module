@@ -1,6 +1,6 @@
 # Google Project Management Professional Certificate Module
 
-- This reposository is written for reference and self-documentation purposes
+- This repository is written for reference and self-documentation purposes
 
 - Feel free to contribute
 
