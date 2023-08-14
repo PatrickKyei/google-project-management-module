@@ -17,7 +17,7 @@ Which of the following best describes the difference between in-scope and out-of
 > It’s your job as a project manager to set firm boundaries for the project so the team can stay on track.
 
 
-Goals you believe your team needs to meet and goals the stakeholders believe the team needs to meet
+- Goals you believe your team needs to meet and goals the stakeholders believe the team needs to meet
 
 <br>
 
