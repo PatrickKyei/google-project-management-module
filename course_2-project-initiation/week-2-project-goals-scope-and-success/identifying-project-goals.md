@@ -10,7 +10,9 @@ Which three questions should you ask yourself to make a goal specific?
 
 > When creating your goal, you’ll want to state who the goal involves. 
 
-+ [ ] Where should it delivered?
++ [x] Where should it delivered?
+
+> When writing a goal, you may want to include where exactly the goal will be delivered.
 
 + [x] What do I want to accomplish?
 
